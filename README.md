@@ -21,3 +21,8 @@ $ git clone --HTTPS--
 
 ## Licencia
 ### Apache License 2.0
+
+## Diagrama de flujo 
+![image](https://user-images.githubusercontent.com/80357831/110533788-f61d9f00-80e3-11eb-9ac4-e05594f850f8.png)
+
+
